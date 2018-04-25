@@ -1,0 +1,20 @@
+.tableTitle {
+  /* margin: 2% 0; */
+  padding: 2%;
+}
+
+.conferenceTitle {
+  width: 200px;
+}
+
+th {
+  text-align: left;
+}
+
+td, th {
+  width: 3%;
+}
+
+td:nth-child(1) {
+  width: 8%;
+}
